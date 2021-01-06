@@ -2,14 +2,14 @@ package Study.Algorithm.sort;
 
 import java.util.Arrays;
 
-import Study.Algorithm.sort.insertionSort.InsertionSort;
+import Study.Algorithm.sort.mergeSort.MergeSort;
 
 public class Client {
 	public static void main(String[] args) {
 		// 初始化数组
 		int[] array = { 6, 57, 72, 22 };
 		// 排序
-		Sort sort = new InsertionSort();
+		Sort sort = new MergeSort();
 		sort.sort(array);
 		// 输出结果
 		System.out.println(Arrays.toString(array));

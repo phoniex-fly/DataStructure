@@ -14,7 +14,7 @@ public class SelectionSort extends Sort {
 		for (int i = 0; i < array.length; i++) {
 			int maxIdx = 0;
 			for (int j = 0; j < array.length - i; j++) {
-				if (compare(j, maxIdx) > 0) {
+				if (compareByIdx(j, maxIdx) > 0) {
 					maxIdx = j;
 				}
 			}

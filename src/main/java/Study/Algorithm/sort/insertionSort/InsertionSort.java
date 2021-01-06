@@ -17,7 +17,7 @@ public class InsertionSort extends Sort {
 	public void concreteSort1() {
 		for (int i = 1; i < array.length; i++) {
 			for (int j = i; j > 0; j--) {
-				if (compare(j - 1, j) > 0) {
+				if (compareByIdx(j - 1, j) > 0) {
 					swap(j - 1, j);
 				}
 			}
