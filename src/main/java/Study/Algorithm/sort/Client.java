@@ -2,7 +2,7 @@ package Study.Algorithm.sort;
 
 import java.util.Arrays;
 
-import Study.Algorithm.sort.uncmp.CountingSort2;
+import Study.Algorithm.sort.uncmp.countingSort.CountingSort2;
 
 public class Client {
 	public static void main(String[] args) {

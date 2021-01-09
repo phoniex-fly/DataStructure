@@ -1,4 +1,4 @@
-package Study.Algorithm.sort.uncmp;
+package Study.Algorithm.sort.uncmp.countingSort;
 
 import Study.Algorithm.sort.Sort;
 
