@@ -1,4 +1,4 @@
-package Study.Algorithm.sort.selectionSort;
+package Study.Algorithm.sort.cmp.selectionSort;
 
 import Study.Algorithm.sort.Sort;
 

@@ -1,4 +1,4 @@
-package Study.Algorithm.sort.insertionSort;
+package Study.Algorithm.sort.cmp.insertionSort;
 
 import java.util.ArrayList;
 import java.util.List;

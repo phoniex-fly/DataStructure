@@ -1,4 +1,4 @@
-package Study.Algorithm.sort.mergeSort;
+package Study.Algorithm.sort.cmp.mergeSort;
 
 import Study.Algorithm.sort.Sort;
 

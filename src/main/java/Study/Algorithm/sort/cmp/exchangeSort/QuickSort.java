@@ -1,4 +1,4 @@
-package Study.Algorithm.sort.exchangeSort;
+package Study.Algorithm.sort.cmp.exchangeSort;
 
 import Study.Algorithm.sort.Sort;
 
